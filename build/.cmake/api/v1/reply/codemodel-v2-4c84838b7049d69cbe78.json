@@ -1,0 +1,137 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "x86_64",
+					"jsonFile" : "directory-x86_64-Debug-e93ee547654f30a9bdb2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "x86_64",
+					"targetIndexes" : 
+					[
+						1,
+						3,
+						5
+					]
+				},
+				{
+					"build" : "ref10",
+					"jsonFile" : "directory-ref10-Debug-52f3d041eb1cacacf0ec.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ref10",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "SimplestOT",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "SimplestOT::@eb9423aebcd6cd4c3e93",
+					"jsonFile" : "target-SimplestOT-Debug-6fde5727abf8d1044ca8.json",
+					"name" : "SimplestOT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SimplestOT_ASM::@4a9a0e3d00ed9273ff1d",
+					"jsonFile" : "target-SimplestOT_ASM-Debug-74b942696864085220a7.json",
+					"name" : "SimplestOT_ASM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ot_receiver::@eb9423aebcd6cd4c3e93",
+					"jsonFile" : "target-ot_receiver-Debug-85500e76cbfd02081504.json",
+					"name" : "ot_receiver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ot_receiver_asm::@4a9a0e3d00ed9273ff1d",
+					"jsonFile" : "target-ot_receiver_asm-Debug-f5a3eb9252b0119dc930.json",
+					"name" : "ot_receiver_asm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ot_sender::@eb9423aebcd6cd4c3e93",
+					"jsonFile" : "target-ot_sender-Debug-ed7dd520d6851951f925.json",
+					"name" : "ot_sender",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ot_sender_asm::@4a9a0e3d00ed9273ff1d",
+					"jsonFile" : "target-ot_sender_asm-Debug-5d5bc844ae2e5a8e1c43.json",
+					"name" : "ot_sender_asm",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/nakul/mp-spdz-0.3.8/build",
+		"source" : "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

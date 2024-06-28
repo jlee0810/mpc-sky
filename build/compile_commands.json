@@ -1,0 +1,638 @@
+[
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/consts.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/consts.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/consts.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/consts.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/consts4x.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/consts4x.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/consts4x.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/consts4x.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/cpucycles.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/cpucycles.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/cpucycles.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/cpucycles.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_add.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_add.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_add.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_add.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_freeze.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_freeze.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_freeze.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_freeze.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_getparity.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_getparity.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_getparity.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_getparity.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_invert.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_invert.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_invert.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_invert.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_iseq_vartime.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_iseq_vartime.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_iseq_vartime.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_iseq_vartime.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_mul.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_mul.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_mul.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_mul.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_neg.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_neg.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_neg.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_neg.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_nsquare.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_nsquare.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_nsquare.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_nsquare.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_pack.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_pack.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_pack.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_pack.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_pow2523.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_pow2523.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_pow2523.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_pow2523.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_setint.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_setint.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_setint.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_setint.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_square.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_square.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_square.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_square.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_sub.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_sub.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_sub.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_sub.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_unpack.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_unpack.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/fe25519_unpack.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/fe25519_unpack.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_add.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_add.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_add.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_add.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_add_p1p1.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_add_p1p1.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_add_p1p1.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_add_p1p1.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_dbl_p1p1.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_dbl_p1p1.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_dbl_p1p1.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_dbl_p1p1.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_double.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_double.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_double.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_double.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_lookup.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_lookup.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_lookup.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_lookup.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_lookup_niels.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_lookup_niels.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_lookup_niels.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_lookup_niels.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_nielsadd2.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_nielsadd2.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_nielsadd2.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_nielsadd2.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_p1p1_to_p2.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_p1p1_to_p2.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_p1p1_to_p2.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_p1p1_to_p2.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_p1p1_to_p3.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_p1p1_to_p3.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_p1p1_to_p3.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_p1p1_to_p3.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_pack.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_pack.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_pack.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_pack.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_scalarmult.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_scalarmult.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_scalarmult.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_scalarmult.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_scalarmult_base.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_scalarmult_base.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_scalarmult_base.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_scalarmult_base.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_setneutral.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_setneutral.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_setneutral.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_setneutral.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_unpack.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_unpack.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge25519_unpack.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge25519_unpack.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x_add_p1p1.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x_add_p1p1.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x_add_p1p1.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x_add_p1p1.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x_double_p1p1.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x_double_p1p1.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x_double_p1p1.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x_double_p1p1.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x_lookup.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x_lookup.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x_lookup.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x_lookup.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x_lookup_niels.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x_lookup_niels.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x_lookup_niels.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x_lookup_niels.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x_niels_add_p1p1.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x_niels_add_p1p1.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x_niels_add_p1p1.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x_niels_add_p1p1.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x_pack.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x_pack.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x_pack.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x_pack.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x_unpack_vartime.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x_unpack_vartime.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ge4x_unpack_vartime.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ge4x_unpack_vartime.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_add.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_add.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_add.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_add.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_getparity.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_getparity.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_getparity.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_getparity.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_iseq_vartime.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_iseq_vartime.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_iseq_vartime.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_iseq_vartime.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_mul.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_mul.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_mul.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_mul.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_nsquare.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_nsquare.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_nsquare.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_nsquare.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_pow2523.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_pow2523.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_pow2523.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_pow2523.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_square.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_square.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_square.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_square.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_sub.s.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_sub.s",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/gfe4x_sub.s",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/gfe4x_sub.s.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/Keccak-simple.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/Keccak-simple.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/Keccak-simple.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/Keccak-simple.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/network.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/network.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/network.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/network.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ot_receiver.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ot_receiver.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ot_receiver.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ot_receiver.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/ot_sender.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ot_sender.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/ot_sender.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/ot_sender.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/__/common/randombytes.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/common/randombytes.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/common/randombytes.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/__/common/randombytes.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/sc25519_from32bytes.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/sc25519_from32bytes.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/sc25519_from32bytes.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/sc25519_from32bytes.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/sc25519_random.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/sc25519_random.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/sc25519_random.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/sc25519_random.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/SimplestOT_ASM.dir/sc25519_window4.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/sc25519_window4.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/sc25519_window4.c",
+  "output": "x86_64/CMakeFiles/SimplestOT_ASM.dir/sc25519_window4.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/ot_sender_asm.dir/__/common/ot_sender_test.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/common/ot_sender_test.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/common/ot_sender_test.c",
+  "output": "x86_64/CMakeFiles/ot_sender_asm.dir/__/common/ot_sender_test.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/x86_64/.  -O3 -Wall -Wextra -no-pie -fno-PIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o x86_64/CMakeFiles/ot_receiver_asm.dir/__/common/ot_receiver_test.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/common/ot_receiver_test.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/common/ot_receiver_test.c",
+  "output": "x86_64/CMakeFiles/ot_receiver_asm.dir/__/common/ot_receiver_test.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/cpucycles.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/cpucycles.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/cpucycles.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/cpucycles.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_0.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_0.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_0.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_0.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_1.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_1.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_1.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_1.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_add.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_add.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_add.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_add.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_cmov.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_cmov.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_cmov.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_cmov.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_copy.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_copy.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_copy.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_copy.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_frombytes.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_frombytes.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_frombytes.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_frombytes.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_invert.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_invert.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_invert.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_invert.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_isnegative.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_isnegative.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_isnegative.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_isnegative.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_isnonzero.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_isnonzero.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_isnonzero.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_isnonzero.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_mul.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_mul.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_mul.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_mul.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_neg.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_neg.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_neg.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_neg.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_pow22523.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_pow22523.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_pow22523.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_pow22523.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_sq.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_sq.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_sq.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_sq.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_sq2.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_sq2.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_sq2.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_sq2.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_sub.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_sub.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_sub.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_sub.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/fe_tobytes.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_tobytes.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/fe_tobytes.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/fe_tobytes.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_add.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_add.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_add.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_add.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_double_scalarmult.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_double_scalarmult.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_double_scalarmult.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_double_scalarmult.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_frombytes.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_frombytes.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_frombytes.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_frombytes.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_madd.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_madd.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_madd.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_madd.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_msub.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_msub.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_msub.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_msub.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_p1p1_to_p2.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p1p1_to_p2.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p1p1_to_p2.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_p1p1_to_p2.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_p1p1_to_p3.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p1p1_to_p3.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p1p1_to_p3.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_p1p1_to_p3.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_p2_0.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p2_0.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p2_0.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_p2_0.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_p2_dbl.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p2_dbl.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p2_dbl.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_p2_dbl.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_p3_0.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p3_0.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p3_0.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_p3_0.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_p3_dbl.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p3_dbl.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p3_dbl.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_p3_dbl.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_p3_to_cached.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p3_to_cached.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p3_to_cached.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_p3_to_cached.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_p3_to_p2.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p3_to_p2.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p3_to_p2.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_p3_to_p2.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_p3_tobytes.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p3_tobytes.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_p3_tobytes.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_p3_tobytes.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_precomp_0.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_precomp_0.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_precomp_0.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_precomp_0.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_scalarmult_base.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_scalarmult_base.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_scalarmult_base.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_scalarmult_base.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_sub.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_sub.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_sub.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_sub.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ge_tobytes.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_tobytes.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ge_tobytes.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ge_tobytes.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/Keccak-simple.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/Keccak-simple.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/Keccak-simple.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/Keccak-simple.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/network.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/network.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/network.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/network.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ot_receiver.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ot_receiver.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ot_receiver.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ot_receiver.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/ot_sender.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ot_sender.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/ot_sender.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/ot_sender.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/__/common/randombytes.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/common/randombytes.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/common/randombytes.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/__/common/randombytes.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/sc_muladd.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/sc_muladd.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/sc_muladd.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/sc_muladd.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/sc_random.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/sc_random.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/sc_random.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/sc_random.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/sc_reduce.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/sc_reduce.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/sc_reduce.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/sc_reduce.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/SimplestOT.dir/verify.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/verify.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/verify.c",
+  "output": "ref10/CMakeFiles/SimplestOT.dir/verify.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/ot_sender.dir/__/common/ot_sender_test.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/common/ot_sender_test.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/common/ot_sender_test.c",
+  "output": "ref10/CMakeFiles/ot_sender.dir/__/common/ot_sender_test.c.o"
+},
+{
+  "directory": "/Users/nakul/mp-spdz-0.3.8/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/ref10/.  -O3 -Wall -Wextra -DREF10 -std=gnu99 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o ref10/CMakeFiles/ot_receiver.dir/__/common/ot_receiver_test.c.o -c /Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/common/ot_receiver_test.c",
+  "file": "/Users/nakul/mp-spdz-0.3.8/deps/SimplestOT_C/common/ot_receiver_test.c",
+  "output": "ref10/CMakeFiles/ot_receiver.dir/__/common/ot_receiver_test.c.o"
+}
+]

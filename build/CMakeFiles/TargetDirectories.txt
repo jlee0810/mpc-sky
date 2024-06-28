@@ -1,0 +1,12 @@
+/Users/nakul/mp-spdz-0.3.8/build/CMakeFiles/edit_cache.dir
+/Users/nakul/mp-spdz-0.3.8/build/CMakeFiles/rebuild_cache.dir
+/Users/nakul/mp-spdz-0.3.8/build/x86_64/CMakeFiles/SimplestOT_ASM.dir
+/Users/nakul/mp-spdz-0.3.8/build/x86_64/CMakeFiles/ot_sender_asm.dir
+/Users/nakul/mp-spdz-0.3.8/build/x86_64/CMakeFiles/ot_receiver_asm.dir
+/Users/nakul/mp-spdz-0.3.8/build/x86_64/CMakeFiles/edit_cache.dir
+/Users/nakul/mp-spdz-0.3.8/build/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/nakul/mp-spdz-0.3.8/build/ref10/CMakeFiles/SimplestOT.dir
+/Users/nakul/mp-spdz-0.3.8/build/ref10/CMakeFiles/ot_sender.dir
+/Users/nakul/mp-spdz-0.3.8/build/ref10/CMakeFiles/ot_receiver.dir
+/Users/nakul/mp-spdz-0.3.8/build/ref10/CMakeFiles/edit_cache.dir
+/Users/nakul/mp-spdz-0.3.8/build/ref10/CMakeFiles/rebuild_cache.dir
