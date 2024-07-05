@@ -178,7 +178,7 @@ void calculate_key_sum(int argc, const char** argv) {
     P256Element alphaiG(alphai);
 
     key_timer.stop();
-    std::cout << "Client public key share generation time: " << key_timer.elapsed() * 1e3 << " ms" << std::endl;
+    // std::cout << "Client public key share generation time: " << key_timer.elapsed() * 1e3 << " ms" << std::endl;
 
     // Pack the public key into an octetStream
     octetStream os;
@@ -196,7 +196,7 @@ void calculate_key_sum(int argc, const char** argv) {
         player.receive_player(1, received_os);
 
         comm_timer.stop();
-        std::cout << "Receiving client's public key share time: " << comm_timer.elapsed() * 1e3 << " ms" << std::endl;
+        // std::cout << "Receiving client's public key share time: " << comm_timer.elapsed() * 1e3 << " ms" << std::endl;
 
         // Unpack P_2's public key
         P256Element alphajG;
@@ -209,10 +209,12 @@ void calculate_key_sum(int argc, const char** argv) {
         Timer beta_timer;
         beta_timer.start();
         P256Element::Scalar beta;
-        beta.randomize(G);
+        // beta.randomize(G);
+        std::cin >> beta;
         betaG = P256Element(beta);
         beta_timer.stop();
-        std::cout << "Server Public Key Generation Time: " << beta_timer.elapsed() * 1e3 << " ms" << std::endl;
+        std::cout << "Server Public Key: " << beta << std::endl;
+        // std::cout << "Server Public Key Generation Time: " << beta_timer.elapsed() * 1e3 << " ms" << std::endl;
 
         Timer beta_send_timer;
         beta_send_timer.start();
@@ -220,7 +222,7 @@ void calculate_key_sum(int argc, const char** argv) {
         betaG.pack(beta_os);
         player.send_to(1, beta_os);
         beta_send_timer.stop();
-        std::cout << "Server Public Key Send Time: " << beta_send_timer.elapsed() * 1e3 << " ms" << std::endl;
+        // std::cout << "Server Public Key Send Time: " << beta_send_timer.elapsed() * 1e3 << " ms" << std::endl;
 
         // Compute the product of `alphai` with `betaG`
         product = alphai * betaG;
@@ -235,7 +237,7 @@ void calculate_key_sum(int argc, const char** argv) {
         comm_timer.start();
         player.send_to(0, os);
         comm_timer.stop();
-        std::cout << "Sending client's public key share time: " << comm_timer.elapsed() * 1e3 << " ms" << std::endl;
+        // std::cout << "Sending client's public key share time: " << comm_timer.elapsed() * 1e3 << " ms" << std::endl;
 
         // Output P_2's own public key
         std::cout << "P_2's Public Key: " << alphaiG << std::endl;
@@ -246,7 +248,7 @@ void calculate_key_sum(int argc, const char** argv) {
         octetStream beta_os;
         player.receive_player(0, beta_os);
         beta_recv_timer.stop();
-        std::cout << "Server Public Key Receive Time: " << beta_recv_timer.elapsed() * 1e3 << " ms" << std::endl;
+        // std::cout << "Server Public Key Receive Time: " << beta_recv_timer.elapsed() * 1e3 << " ms" << std::endl;
 
         // Unpack `betaG`
         betaG.unpack(beta_os);
